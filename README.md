@@ -7,8 +7,8 @@ This repository contains test automation scripts for POS Malaysia’s Shipping R
 
 ## Files  
 
-- `POS Malaysia Shipping Rate Calculator APIs.postman_collection.json`: Postman collection for API testing.  
-- `pos_shipping_rate_calculator_ui_test.py`: Selenium script for UI testing.  
+- `API-TESTING/POS Malaysia Shipping Rate Calculator APIs.postman_collection.json`: Postman collection for API testing.  
+- `UI-TESTING/pos_shipping_rate_calculator_ui_test.py`: Selenium script for UI testing.  
 
 
 ### Note:
