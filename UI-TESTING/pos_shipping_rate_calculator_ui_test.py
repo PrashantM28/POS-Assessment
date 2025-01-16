@@ -35,8 +35,9 @@ try:
     # Click the "Calculate" button
     
     calculate_button = driver.find_element(By.XPATH, "//a[contains(@class, 'no-underline') and contains(text(), 'Calculate')]")
-    print("Calculating ...")
+    print("Getting quotes ... ")
     calculate_button.click()
+    print("sleeping for 10 seconds ...")
 
     # Verifying multiple quotes are displayed
     time.sleep(10)
