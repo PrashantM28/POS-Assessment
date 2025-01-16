@@ -1,4 +1,3 @@
-# POS-Assessment
-This is the Home API Testing and Test Automation Assessment Repository.
-<br>
-Author - Prashant Malik (Automation Engineer)
+# POS Malaysia API Assessment  
+
+This repository contains a Postman collection to test APIs for POS Malaysia’s Shipping Rate Calculator.  
