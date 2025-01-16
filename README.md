@@ -11,3 +11,5 @@ This repository contains test automation scripts for POS Malaysia’s Shipping R
 - `pos_shipping_rate_calculator_ui_test.py`: Selenium script for UI testing.  
 
 
+### Note:
+During testing for Selenium UI automation, it was observed that the **India** option was not visible in the "To" country dropdown on the UI. As a workaround, the script was configured to select **Afghanistan** instead of India to proceed with the automation.
