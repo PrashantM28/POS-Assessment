@@ -1,0 +1,37 @@
+# Log files
+*.log
+
+# Test output
+test-output/
+reports/
+*.xml
+
+# Temporary files
+*.tmp
+*.swp
+
+# Build directories
+target/
+node_modules/
+
+# IDE project files
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+
+# Local config files
+.env
+config/local.json
+config/.env.*
+
+# Authentication and credential files
+*.json
+*.yml
+.credentials/
+
+# Automation-specific files
+*.bak
+*.dat
+*.csv
