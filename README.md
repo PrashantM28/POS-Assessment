@@ -12,4 +12,4 @@ This repository contains test automation scripts for POS Malaysia’s Shipping R
 
 
 ### Note:
-During testing for Selenium UI automation, it was observed that the **India** option was not visible in the "To" country dropdown on the UI. As a workaround, the script was configured to select **Albania** instead of India to proceed with the automation.
+During testing for Selenium UI automation, it was observed that the **India** option was not visible in the "To" country dropdown on the UI. As a workaround, the script was configured to select **Afghanistan** instead of India to proceed with the automation.
